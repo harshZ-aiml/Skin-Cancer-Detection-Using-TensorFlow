@@ -1,0 +1,9 @@
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+.vscode/
+__pycache__/
+
+Skin cancer ISIC The International Skin Imaging Collaboration/
